@@ -5,3 +5,6 @@ def findArea():
 	return area
 
 print(findArea())
+
+print("ITEM")
+print("TEST")
