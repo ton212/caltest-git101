@@ -7,3 +7,4 @@ def findArea():
 print(findArea())
 
 print("ITEM")
+print("TEST")
